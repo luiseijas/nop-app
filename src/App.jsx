@@ -10,7 +10,7 @@ export default function App() {
     travelTime: 25,
     leaveAt: "8:30",
     notes: "Quiere estilo clásico y elegante.",
-    images: ["/img1.jpg", "/img2.jpg"],
+    images: ["/images/example1.jpg", "/images/example2.jpg"],
   });
 
   const [availability] = useState([
